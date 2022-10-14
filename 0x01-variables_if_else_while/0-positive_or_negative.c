@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include < time.h>
+#include <time.h>
 /**
  * main-begining point
  * Return:Always 0, if not error
