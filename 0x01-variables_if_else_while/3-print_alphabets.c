@@ -1,7 +1,7 @@
  #include <stdio.h>
 /**
  *main-lets do something hard
- *Retuen:Alwyas 0, else error
+ *Return:Alwyas 0, else error
  **/
 int main(void)
 {
