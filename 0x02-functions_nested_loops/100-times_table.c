@@ -2,7 +2,7 @@
 
 /**
  * print_times_table - prints n times table starti g with 0.
- * @n : the value of the times table printed.
+ * @n: the value of the times table printed.
  */
 void print_times_table(int n)
 {
