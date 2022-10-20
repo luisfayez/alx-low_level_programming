@@ -1,8 +1,3 @@
-/*
- * File: 0-main.c
- * Auth: luisfayezCodw
- */
-
 #include "main.h"
 
 /**
