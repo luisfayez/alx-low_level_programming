@@ -4,7 +4,7 @@
  */
 
 
-#include <stdi.h>
+#include <stdio.h>
 
 /**
  * main -list all natural n numbers blow 1024 (excluded)
