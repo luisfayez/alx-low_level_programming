@@ -1,10 +1,5 @@
 #include <stdio.h>
 
-/*
- * File: 1-main.c
- * Auth: luisfayezCode
- */
-
 /**
  * main - causes an infinite loop
  * Return: 0
