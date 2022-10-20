@@ -1,7 +1,14 @@
-#include <stdio.h>
+/*
+ * File: 101-natural.c
+ * Auth: luisfayeCode
+ */
+
+
+#include <stdi.h>
 
 /**
- * main-prints the sum of all multiples 
+ * main -list all natural n numbers blow 1024 (excluded)
+ *
  * Return: Always 0.
  */
 int main(void)
@@ -10,9 +17,9 @@ int main(void)
 
 	for (i = 0; i < 1024; i++)
 	{
-		if ((i % 3 == 0 || (i % 5) == 0)
+		if ((i % 3) == 0 || (i % 5) == 0)
 			sum += i;
-			}
+	}
 
 	printf("%d\n", sum);
 
