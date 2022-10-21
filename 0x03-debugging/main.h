@@ -12,13 +12,7 @@ void print_numbers(void);
 int _putchar(char);
 void
 print_most_numbers(void);
-more_numbers(void);
-void print_square(int size);
-void print_number(int n);
-void print_triangle(int size);
-void print_line(int n);
-more_numbers(void);
-void print_diagonal(int n);
+more_numbers(void);;
 
 
 #endif /* MAIN_H */
