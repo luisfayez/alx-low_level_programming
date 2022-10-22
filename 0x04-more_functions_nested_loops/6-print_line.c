@@ -1,8 +1,8 @@
 #include "main.h"
 
 /**
- * print_line - prints a straight line using '_'
- * @n: the number of '_' to be printed
+ * print_line - Draws a straight line using the character _.
+ * @n: The number of _ characters to be printed.
  */
 void print_line(int n)
 {
@@ -11,7 +11,8 @@ void print_line(int n)
 	if (n > 0)
 	{
 		for (len = 0; len < n; len++)
-			 _putchar('_');
+			_putchar('_');
 	}
+
 	_putchar('\n');
 }
