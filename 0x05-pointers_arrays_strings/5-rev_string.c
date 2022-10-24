@@ -1,8 +1,5 @@
 #include "main.h"
-/** File: 5-rev_string.
- * Auth: luisfayezCode
- *
- *
+/**
  * rev_string - reverses a string.
  * @s: input string.
  * Return: no return.
