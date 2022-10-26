@@ -3,7 +3,7 @@
 #include <time.h>
 /**
  * main - generates keygen.
- * Return: Always 0.
+ * Return: 0 Always.
  */
 int main(void)
 {
