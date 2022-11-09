@@ -1,4 +1,3 @@
-#2-str_concat.c
 #include <stdlib.h>
 #include "holberton.h"
 
